@@ -1,342 +1,6 @@
-/* создать */
-
-position: relative;
-width: 1500px;
-height: 1000px;
-
-background: #FFFFFF;
-
-
-/* Rectangle 438 */
-
-position: absolute;
-left: 0%;
-right: 0%;
-top: 0%;
-bottom: 90.6%;
-
-background: #FFFFFF;
-box-shadow: 0px 4px 4px #E9E8F1;
-
-
-/* btn */
-
-position: absolute;
-left: 44.2%;
-right: 44.2%;
-top: 78.2%;
-bottom: 17.2%;
-
-
-
-/* Rectangle 439 */
-
-position: absolute;
-left: 44.2%;
-right: 44.2%;
-top: 78.2%;
-bottom: 17.2%;
-
-background: #221874;
-border-radius: 4px;
-
-
-/* Publish */
-
-position: absolute;
-left: 48.07%;
-right: 48.13%;
-top: 79.5%;
-bottom: 18.4%;
-
-font-family: Poppins;
-font-style: normal;
-font-weight: 600;
-font-size: 14px;
-line-height: 21px;
-/* identical to box height */
-text-transform: uppercase;
-
-color: #FFFFFF;
-
-
-
-/* btn */
-
-position: absolute;
-left: 78.4%;
-right: 17.53%;
-top: 3.6%;
-bottom: 94.3%;
-
-
-
-/* LOG OUT */
-
-position: absolute;
-left: 78.4%;
-right: 17.53%;
-top: 3.6%;
-bottom: 94.3%;
-
-font-family: Poppins;
-font-style: normal;
-font-weight: 600;
-font-size: 14px;
-line-height: 21px;
-/* identical to box height */
-
-color: #262626;
-
-
-
-/* Search */
-
-/* Auto Layout */
-display: flex;
-flex-direction: row;
-align-items: center;
-padding: 0px;
-
-position: absolute;
-width: 538px;
-height: 40px;
-left: 398px;
-top: 27px;
-
-
-
-/* Input */
-
-/* Auto Layout */
-display: flex;
-flex-direction: row;
-align-items: center;
-padding: 12px;
-
-position: static;
-width: 538px;
-left: calc(50% - 538px/2);
-top: 0%;
-bottom: 0%;
-
-/* Ink/White Ink */
-background: #FFFFFF;
-/* Ink/03 */
-border: 1px solid #ACB8C2;
-box-sizing: border-box;
-border-radius: 4px;
-
-/* Inside Auto Layout */
-flex: none;
-order: 0;
-flex-grow: 1;
-margin: 0px 16px;
-
-
-/* Left */
-
-/* Auto Layout */
-display: flex;
-flex-direction: row;
-align-items: center;
-padding: 0px;
-
-position: static;
-width: 514px;
-height: 16px;
-left: 12px;
-top: calc(50% - 16px/2);
-
-
-/* Inside Auto Layout */
-flex: none;
-order: 0;
-flex-grow: 1;
-margin: 0px 8px;
-
-
-/* Left Icon */
-
-position: static;
-display: none;
-width: 16px;
-height: 16px;
-right: 498px;
-top: calc(50% - 16px/2 + 12px);
-
-
-/* Inside Auto Layout */
-flex: none;
-order: 0;
-flex-grow: 0;
-margin: 0px 8px;
-
-
-/* Secondary Value */
-
-position: static;
-display: none;
-width: 50px;
-height: 21px;
-left: 24px;
-top: calc(50% - 21px/2 + 12.5px);
-
-/* Paragraph/Medium */
-font-family: Poppins;
-font-style: normal;
-font-weight: normal;
-font-size: 14px;
-line-height: 150%;
-/* identical to box height, or 21px */
-display: flex;
-align-items: center;
-
-/* Ink/02 */
-color: #5B5B5B;
-
-
-/* Inside Auto Layout */
-flex: none;
-order: 1;
-flex-grow: 0;
-margin: 0px 8px;
-
-
-/* Right */
-
-/* Auto Layout */
-display: flex;
-flex-direction: row;
-align-items: center;
-padding: 0px;
-
-position: static;
-width: 16px;
-height: 16px;
-right: 498px;
-top: calc(50% - 16px/2);
-
-
-/* Inside Auto Layout */
-flex: none;
-order: 2;
-flex-grow: 0;
-margin: 0px 8px;
-
-
-/* Value */
-
-position: static;
-display: none;
-width: 40px;
-height: 20px;
-left: 0px;
-top: calc(50% - 20px/2 + 2px);
-
-/* Body/Base */
-font-family: Gordita;
-font-style: normal;
-font-weight: normal;
-font-size: 14px;
-line-height: 20px;
-/* identical to box height, or 143% */
-display: flex;
-align-items: center;
-text-align: right;
-letter-spacing: 0.125px;
-
-/* Ink/02 */
-color: #5B5B5B;
-
-
-/* Inside Auto Layout */
-flex: none;
-order: 0;
-flex-grow: 0;
-margin: 0px 8px;
-
-
-/* Right Icon */
-
-position: static;
-width: 16px;
-height: 16px;
-right: 0px;
-top: calc(50% - 16px/2);
-
-
-/* Inside Auto Layout */
-flex: none;
-order: 1;
-flex-grow: 0;
-margin: 0px 8px;
-
-
-/* Vector */
-
-position: absolute;
-left: 12.5%;
-right: 14.63%;
-top: 12.5%;
-bottom: 14.63%;
-
-/* Ink/02 */
-background: #656F77;
-
-
-/* Value */
-
-position: static;
-width: 490px;
-height: 16px;
-left: 24px;
-top: calc(50% - 16px/2);
-
-/* Components/Medium */
-font-family: Poppins;
-font-style: normal;
-font-weight: normal;
-font-size: 14px;
-line-height: 16px;
-/* identical to box height, or 114% */
-display: flex;
-align-items: center;
-
-/* Ink/02 */
-color: #656F77;
-
-
-/* Inside Auto Layout */
-flex: none;
-order: 3;
-flex-grow: 1;
-margin: 0px 8px;
-
-
-/* Component 1 */
-
-position: absolute;
-width: 194px;
-height: 50px;
-left: 64px;
-top: 22px;
-
-
-
-/* btn */
-
-position: absolute;
-left: 29.38%;
-right: 0%;
-top: 18%;
-bottom: 10%;
-
-
-
-/* buy please */
-
-position: absolute;
+h1
+{
+   position: absolute;
 left: 29.38%;
 right: 0%;
 top: 18%;
@@ -348,67 +12,14 @@ font-weight: 600;
 font-size: 24px;
 line-height: 36px;
 /* identical to box height */
+
 text-transform: uppercase;
 
-color: #221874;
-
-
-
-/* component/logo/50x50 */
-
-position: absolute;
-left: 0%;
-right: 74.23%;
-top: 0%;
-bottom: 0%;
-
-
-
-/* component/logo/50x50 */
-
-position: absolute;
-width: 50px;
-height: 50px;
-left: 0px;
-top: 0px;
-
-
-
-/* Rectangle */
-
-position: absolute;
-left: 0%;
-right: 0%;
-top: 0%;
-bottom: 0%;
-
-background: #7CC6D6;
-border-radius: 20px;
-
-
-/* logo */
-
-position: absolute;
-width: 50px;
-height: 50px;
-left: 0px;
-top: 0px;
-
-
-
-/* Group */
-
-position: absolute;
-width: 50px;
-height: 50px;
-left: 0px;
-top: 0px;
-
-
-
-/* Rectangle */
-
-position: absolute;
+color: #221874; 
+}
+.img1
+{
+  position: absolute;
 left: 0%;
 right: 0%;
 top: 0%;
@@ -416,319 +27,66 @@ bottom: 0%;
 
 background: #7CC6D6;
 border-radius: 35px;
+}
+.img2
+{
+  display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px;
 
-
-/* Rectangle */
-
-position: absolute;
-left: 22.22%;
-right: 54.44%;
-top: 25.56%;
-bottom: 51.11%;
-
-background: #FFFFFF;
-border-radius: 100px 100px 0px 100px;
-
-
-/* Rectangle Copy */
-
-position: absolute;
-left: 73.33%;
-right: 3.33%;
-top: 25.56%;
-bottom: 51.11%;
-
-background: #3284AE;
-border-radius: 100px 100px 0px 100px;
-transform: matrix(-1, 0, 0, 1, 0, 0);
-
-
-/* Rectangle Copy 3 */
-
-position: absolute;
-left: 22.22%;
-right: 54.44%;
-top: 76.67%;
-bottom: 0%;
-
-background: #3284AE;
-border-radius: 100px 100px 0px 100px;
-transform: matrix(1, 0, 0, -1, 0, 0);
-
-
-/* Rectangle Copy 2 */
-
-position: absolute;
-left: 73.33%;
-right: 3.33%;
-top: 76.67%;
-bottom: 0%;
-
-background: #FFFFFF;
-border-radius: 100px 100px 0px 100px;
-transform: rotate(-180deg);
-
-
-/* Oval */
-
-position: absolute;
-left: 70%;
-right: 25.56%;
-top: 48.89%;
-bottom: 46.67%;
-
-background: #FFFFFF;
-
-
-/* Oval Copy */
-
-position: absolute;
-left: 22.22%;
-right: 73.33%;
-top: 48.89%;
-bottom: 46.67%;
-
-background: #FFFFFF;
-
-
-/* btn */
-
-position: absolute;
-left: 84.07%;
-right: 4.33%;
-top: 2.4%;
-bottom: 93%;
-
-
-
-/* Rectangle 439 */
-
-position: absolute;
-left: 0%;
-right: 0%;
+position: static;
+width: 538px;
+left: calc(50% - 538px/2);
 top: 0%;
 bottom: 0%;
 
-background: #221874;
-border-radius: 4px;
+/* Ink/White Ink */
 
+background: #FFFFFF;
+/* Ink/03 */
 
-/* Create your listing */
-
-position: absolute;
-left: 6.9%;
-right: 6.9%;
-top: 26.09%;
-bottom: 28.26%;
-
-font-family: Poppins;
-font-style: normal;
-font-weight: 600;
-font-size: 14px;
-line-height: 21px;
-/* identical to box height */
-text-transform: uppercase;
-
-color: #FFFFFF;
-
-
-
-/* Group 551 */
-
-position: absolute;
-width: 174px;
-height: 82px;
-left: 81px;
-top: 580px;
-
-
-
-/* btn */
-
-position: absolute;
-left: 5.4%;
-right: 83%;
-top: 61.6%;
-bottom: 33.8%;
-
-
-
-/* Rectangle 439 */
-
-position: absolute;
-left: 5.4%;
-right: 83%;
-top: 61.6%;
-bottom: 33.8%;
-
-background: #33A0FF;
-border-radius: 4px;
-
-
-/* Choose file */
-
-position: absolute;
-left: 8.27%;
-right: 85.87%;
-top: 62.8%;
-bottom: 35.1%;
-
-font-family: Poppins;
-font-style: normal;
-font-weight: 600;
-font-size: 14px;
-line-height: 21px;
-/* identical to box height */
-text-transform: uppercase;
-
-color: #FFFFFF;
-
-
-
-/* Cover image */
-
-position: absolute;
-width: 105px;
-height: 24px;
-left: 82px;
-top: 580px;
-
-font-family: Poppins;
-font-style: normal;
-font-weight: 600;
-font-size: 16px;
-line-height: 24px;
-/* identical to box height */
-
-color: #000000;
-
-
-
-/* Group 552 */
-
-position: absolute;
-width: 324px;
-height: 24px;
-left: 82px;
-top: 694px;
-
-
-
-/* Rectangle */
-
-position: absolute;
-width: 16px;
-height: 16px;
-left: 82px;
-top: 698px;
-
-border: 1px solid #221874;
+border: 1px solid #ACB8C2;
 box-sizing: border-box;
 border-radius: 4px;
 
+/* Inside Auto Layout */
 
-/* Can be seen only by logged in users */
-
+flex: none;
+order: 0;
+flex-grow: 1;
+margin: 0px 16px;
+}
+.img3
+{
+  
 position: absolute;
-width: 293px;
-height: 24px;
-left: 113px;
-top: 694px;
+left: 12.5%;
+right: 14.63%;
+top: 12.5%;
+bottom: 14.63%;
+
+/* Ink/02 */
+
+background: #656F77;
+}
+h2
+{
+  position: absolute;
+left: 45.47%;
+right: 45.4%;
+top: 30.4%;
+bottom: 64.4%;
 
 font-family: Poppins;
 font-style: normal;
 font-weight: 600;
-font-size: 16px;
-line-height: 24px;
-/* identical to box height */
+font-size: 32px;
+line-height: 48px;
+display: flex;
+align-items: flex-end;
+text-transform: uppercase;
 
-color: #000000;
+color: #221874;
 
-
-
-/* arrow back */
-
-position: absolute;
-width: 40px;
-height: 40px;
-left: calc(50% - 40px/2 - 655px);
-top: calc(50% - 40px/2 - 351px);
-
-
-
-/* Icon/arrow-down */
-
-position: absolute;
-left: 100%;
-right: -100%;
-top: 0%;
-bottom: 0%;
-
-mix-blend-mode: normal;
-transform: rotate(90deg);
-
-
-/* Path 2 */
-
-position: absolute;
-left: 87.5%;
-right: 0%;
-top: 45.83%;
-bottom: -20.83%;
-
-border: 1px solid #221874;
-transform: rotate(90deg);
-
-
-/* Path 3 */
-
-position: absolute;
-left: 37.5%;
-right: 12.5%;
-top: 25%;
-bottom: 50%;
-
-border: 1px solid #221874;
-transform: rotate(90deg);
-
-
-/* Group 557 */
-
-position: absolute;
-width: 595px;
-height: 81px;
-left: 81px;
-top: 201px;
-
-
-
-/* Rectangle */
-
-position: absolute;
-width: 595px;
-height: 45px;
-left: 81px;
-top: 237px;
-
-border: 1px solid #221874;
-box-sizing: border-box;
-border-radius: 4px;
-
-
-/* Title */
-
-position: absolute;
-width: 35px;
-height: 24px;
-left: 81px;
-top: 201px;
-
-font-family: Poppins;
-font-style: normal;
-font-weight: 600;
-font-size: 16px;
-line-height: 24px;
-/* identical to box height */
-
-color: #000000;
-
+}
