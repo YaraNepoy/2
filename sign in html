@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8" />
+  <title></title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<header>
+  <img src="C:\Users\Администратор\Downloads\Telegram Desktop/image_2021-08-04_16-39-55.png">
+  <img class="img1" src="image_2021-08-04_16-39-55.png" alt="Голубой круг">
+  <h1> BUY PLEASE </h1>
+  <img src="C:\Users\Администратор\Downloads\Telegram Desktop/image_2021-08-04_16-52-52.png">
+  <img class="img2" src="image_2021-08-04_16-52-52.png" alt ="Прямоугольник для поиска">
+  <img src="C:\Users\Администратор\Downloads\Telegram Desktop/image_2021-08-04_16-59-58.png">
+  <img class="img3" src="image_2021-08-04_16-59-58.png" alt="заЛупа">
+
+</header>
+<main>
+  <h2> SIGN UP</h2>
+
+
+
+
+
+
+
+
+     <script src="username.js"></script>
+</body>
+</html>
